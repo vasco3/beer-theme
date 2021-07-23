@@ -1,8 +1,8 @@
 {
     "name": "beer-theme",
-    "displayName": "beer-theme",
-    "description": "warm bubbly light color theme",
-    "version": "0.0.1",
+    "displayName": "Beer Theme",
+    "description": "Warm, bubbly, & light color theme",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.58.0"
     },
@@ -17,5 +17,14 @@
                 "path": "./themes/Beer Light Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT",
+  "homepage": "https://github.com/vasco3/beer-theme/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/vasco3/beer-theme/issues",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasco3/beer-theme.git"
+  }
 }
