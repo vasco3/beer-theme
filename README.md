@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "beer-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Beer Theme for VS Code
+## Warm, bubbly, light colors with high contrast.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![beer-theme](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/vHL1tuAMYyZfRnChNeiYvp8AhQJ3/NhnCeck7-default.jpeg)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> This theme takes Rescript-lang into consideration.
+# Installation
 
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Beer Theme`
+3. Click **Install** to install it.
+4. Code > Preferences > Color Theme > **Beer Theme**
+
+
+ 
 **Enjoy!**
