@@ -1,27 +1,28 @@
 {
-    "name": "beer-theme",
-    "displayName": "Beer Theme",
-    "description": "Warm, bubbly, & light color theme",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Beer Light Theme",
-                "uiTheme": "vs",
-                "path": "./themes/Beer Light Theme-color-theme.json"
-            }
-        ]
-    },
-    "license": "MIT",
+  "name": "beer-theme",
+  "publisher": "vasco3",
+  "displayName": "Beer Theme",
+  "description": "Warm, bubbly, & light color theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Beer Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Beer Light Theme-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
   "homepage": "https://github.com/vasco3/beer-theme/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/vasco3/beer-theme/issues" 
+    "url": "https://github.com/vasco3/beer-theme/issues"
   },
   "repository": {
     "type": "git",
