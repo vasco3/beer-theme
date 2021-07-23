@@ -1,0 +1,21 @@
+{
+    "name": "beer-theme",
+    "displayName": "beer-theme",
+    "description": "warm bubbly light color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Beer Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Beer Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
